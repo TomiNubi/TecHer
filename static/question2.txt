@@ -1,0 +1,113 @@
+# What skill do you think top tech companies prefer the most?
+> a
+* A bachelor’s degree in computer science
+> b
+* Excellent logical and problem solving skills
+> correctAnswer
+* b
+> explanation
+* Top tech companies like Facebook, Apple, Amazon, Netflix, Google (FANG), do not necessarily require bachelor degrees to get a job.
+# The first known computer programmer was female
+> a
+* True
+> b
+* False
+> correctAnswer
+* a
+> explanation
+* Yup! Her name was Ada Lovelace. She is widely known for her work on Charles Babbage's Analytical Engine.
+* https://www.youtube.com/watch?v=J7ITqnEmf-g
+# Which age group of girls have been shown to be interested in Computer Science the least?
+> a
+* Middle-School
+> b
+* High School
+> c
+* College Students
+> correctAnswer
+* b
+> explanation
+* High school students have been shown to have the least interest due to many factors like not having friends in a computing class.
+* https://www.accenture.com/_acnmedia/Accenture/next-gen-3/girls-who-code/Accenture-Cracking-The-Gender-Code-Report.pdfla=en
+# How many types of careers can one have with a CS degree?
+> a
+* 1-5
+> b
+* 5-10
+> c
+* 10-20
+> d 
+* over 20
+> correctAnswer
+* d
+> explanation
+* One can choose more than 20 with computer science ranging from a software engineer to a business analyst
+* https://www.usnews.com/education/best-graduate-schools/articles/2019-05-02/what-can-you-do-with-a-computer-science-degree.
+# There are barely any free computer science courses
+> a
+* True
+> b
+* False
+> correctAnswer
+* b
+> explanation
+* This is a misconception. While there are a lot of expensive options out there, there are likewise many free alternatives that one can access online. See the links after Stage 2 for more info.
+# According to Forbes, what do tech companies lose if they have only few females in their workforce?
+> a
+* Revenue or sales
+> b
+* Further male employees
+> c
+* Applicants
+> correctAnswer
+* a
+> explanation
+* It's been shown that having a more diverse workforce helps contribute to a companies revenue.
+* https://www.forbes.com/sites/forbestechcouncil/2020/03/10/top-three-reasons-we-need-more-women-in-tech/?sh=1455606b15fb
+# 1966 and 1977, 5000 girls were told to draw a scientist, what percentage of them drew a woman?
+> a
+* 9%
+> b
+* 0.53%
+> c
+* 32%
+> d 
+* 50%
+> correctAnswer
+* b
+> explanation
+* Yup. Only 23 out of 5000 girls (0.56%) pictured a scientist as a woman!
+# In 2016, the same experiment was repeated. What percentage of girls drew a woman then?
+> a
+* 58%
+> b
+* 45%
+> c
+* 71%
+> d 
+* 20%
+> correctAnswer
+* a
+> explanation
+* 58% of girls pictured a female this time. That's a huge increase, however for Computer Science specifically, the gender gap is lower than other science fields.
+* https://www.edutopia.org/article/50-years-children-drawing-scientists
+# It is difficult to relocate to new countries for jobs with a CS degree
+> a
+* True
+> b
+* False
+> correctAnswer
+* b
+> explanation
+* As computer science knowledge is a skill that is universally in demand, it is easier than many jobs to access employment almost anywhere.
+# Which of these is a major reason why there are still very few women in STEM
+> a
+* They have less visible role models
+> b
+* They have worse math and science skills
+> c
+* Its too stressful for them
+> correctAnswer
+* a
+> explanation
+* Several pieces of research point this as a factor that hinder the rate of participation of young girls in STEM. Another is a lower access to support and opportunities

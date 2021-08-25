@@ -1,0 +1,29 @@
+# In your opinion, what is the most interesting form of computer science?
+> Software Development
+> Game Design
+> Web dev
+> Cyber security
+> AI
+> All parts are boring
+# Is computer science more individual oriented or society oriented?
+> Individual (made to just benefit individual people)
+> Made to benefit society
+# Best quality a computer scientist can have?
+> Passion
+> Curiosity
+> Hold a PHD
+> Mathematical skills
+# Those with limited resources have no opportunities in CS
+> True
+> False
+# Do you believe that women are resilient?
+> Yes
+> No
+# Women have a better shot at succeeding at anything they desire if there is solidarity (sisterhood) amongst them.
+> True
+> False (Solidarity makes no difference)
+# Are you curious to see what CS has to offer?
+> Yes
+> NO
+
+

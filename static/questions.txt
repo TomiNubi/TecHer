@@ -1,0 +1,123 @@
+# What do you consider to be the easiest task for you?
+> Fixing problems with devices at home
+* problem_solving, resourcefulness, analytical, tech_savvy
+> Writing a 10-page literature essay
+* creative
+> Performing a biology experiment
+* investigative
+> Illustrating a digital comic strip
+* creative, tech_savvy
+# In many European countries the percentage of female IT specialists is about 17%.In the US it's about 25%. What do you think is the best reason for these low proportions?
+> Women don’t have interest in STEM
+* gender_based_interest
+> The STEM industry is not welcoming to women
+* female_presence
+> Men have more impact in the field
+* gender_based_success
+> Women don’t have the necessary skill
+* gender_based_skill
+# What is most important for you in a career?
+> Money that I can gain
+* financially_motivated
+> Flexibility
+* desire_for_flexibility
+> Its static
+* N/A
+> Possibility for influence
+* influential
+# Do you agree that: Women are on average better at jobs that involve interacting with people and caring for people?
+> Yes
+* gender_based_interest
+> No
+* N/A
+# What is the least important application of CS in your opinion?
+> Game design
+* not_creative
+> Robots and AI
+* programming_specific
+> Statistics
+* programming_specific
+> Computer security
+* programming_specific
+# You are a CEO tasked with choosing someone to lead your innovation team for a new project. Who on first thought will you choose?
+> John: Bachelor’s degree; 3 years experience
+* gender_based_skill
+> Anna: Bachelor’s degree; 5 years
+* N/A
+> Taylor: High school degree; 7 years experience
+* N/A
+> Sam
+* degree_dependent
+# Which of these hobbies do you find the most interesting (If you had to choose one)?
+> Girls scouts
+* N/A
+> Robotics
+* analytical, innovative, problem_solving, tech_savvy
+> Creative Writing
+* creative
+> Video editing
+* Tech_savvy, creative
+> I would never choose these
+* N/A
+# Which quality describes you best?
+> Analytical
+* analytical
+> Curious
+* curious
+> Confident
+* confident
+> Afraid of failure
+> Creative
+* creative
+> Passionate
+* passionate
+# Everyone has the ability to succeed in computer science but its a lot harder for women in computer science. Do you agree with this statement?
+> Yes
+* gender_based_success
+> No
+* female_presence
+# Which best describes a pink collar job?
+> An easy job
+* gender_based_skill
+> A job meant for women
+* gender_based_interest
+> A job with more gender equality
+* N/A
+> A low-paying job
+* gender_based_success
+# A school project you’re doing fails halfway through. What do you do?
+> Start again from scratch/ create a new project
+* patient, resilient
+> Spend time figuring out the mistake you made and continue from where you failed
+* resilient, analytical, problem_solving, patient
+> Give up and forget about the project
+* N/A
+> Collaborate with some better and depend on their assistance
+* collaborative, resilient, patient
+# Out of over 70 recipients of the Turing Award (like the Nobel Prize of Computer Science), 3 are female. How long could you estimate that this number will even up?
+> In 10 years
+* female_presence
+> In 30 years
+* female_presence
+> In 60 years
+* female_presence
+> In more than a 100 years
+* N/A
+# What is the major reason you think people don’t like computer science as a career?
+> It's too stressful or hard
+* overly_difficulty
+> It’s too expensive
+* expensive
+> Its too boring or monotonous
+* boring
+> It requires too much time
+* time_taking
+# Computer Science is best for those who:
+> Are good at math
+* math_dependent
+> Are forward thinking
+* n/a
+> Want to make an influence
+* n/a
+> Are antisocial
+* antisocial
